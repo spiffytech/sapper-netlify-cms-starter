@@ -13,6 +13,10 @@
   },
   "dependencies": {
     "compression": "^1.7.1",
+    "front-matter": "^3.0.2",
+    "glob": "^7.1.4",
+    "markdown-it": "^9.1.0",
+    "mz": "^2.7.0",
     "polka": "next",
     "sirv": "^0.4.0"
   },
